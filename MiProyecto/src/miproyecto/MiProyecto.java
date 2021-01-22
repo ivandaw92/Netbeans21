@@ -38,6 +38,8 @@ public class MiProyecto {
     
     Desde team o click derecho/git/remote/ push to stream para guardar cambios
     en github.
+    
+    Click derecho/git/checkout para recuperar versiones anteriores
     */
     
     }
