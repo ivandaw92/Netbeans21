@@ -24,16 +24,18 @@ public class MiProyecto {
     }
     
     /*
+    
+    En git/remote/clone para clonar proyecto de github
+    
     Guardar datos
     Clone: de github (main o master) a local (head)
     Push: de local a github
     
-    Diff para ver los cambios
+    Diff to head para ver los cambios
     
     Desde team o click derecho/git/ commit para guardar cambios
     con comentarios de lo nuevo.
     
-    Y en git/remote/clone para guardarlo en github
     */
     
     }
