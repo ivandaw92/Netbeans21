@@ -36,6 +36,8 @@ public class MiProyecto {
     Desde team o click derecho/git/ commit para guardar cambios
     con comentarios de lo nuevo.
     
+    Desde team o click derecho/git/remote/ push to stream para guardar cambios
+    en github.
     */
     
     }
