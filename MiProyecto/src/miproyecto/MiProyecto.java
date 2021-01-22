@@ -41,6 +41,10 @@ public class MiProyecto {
     
     Click derecho/git/checkout para recuperar versiones anteriores
    
+    git/create branch para crear ramas desde los commit anteriores realizados
+    
+    branch tag/switch to branch para cambiar de branch
+    
     
     */
     
