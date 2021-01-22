@@ -47,6 +47,8 @@ public class MiProyecto {
     
     en github pull request para unir una rama con el main si no hay conflictos
     o contradicciones entre ellos
+    
+    pull from.. para bajar y mezclar la rama y main que he hecho antes
     */
     
     }
