@@ -45,7 +45,8 @@ public class MiProyecto {
     
     branch tag/switch to branch para cambiar de branch
     
-    
+    en github pull request para unir una rama con el main si no hay conflictos
+    o contradicciones entre ellos
     */
     
     }
